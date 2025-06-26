@@ -208,13 +208,6 @@ The system adapts `F`, `Q`, and `B` for each `dt`.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.  
-Feel free to use, modify, and share with attribution.
-
----
-
 ## 👤 Author
 
 **Mohammed El Amine Hoceini**  
