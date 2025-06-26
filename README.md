@@ -16,7 +16,6 @@ This project implements a **sensor fusion algorithm** for estimating accurate 2D
 - [🧪 Kalman Filter Model](#-kalman-filter-model)
 - [📈 Real-Map Integration](#-real-map-integration)
 - [📌 Notes and Assumptions](#-notes-and-assumptions)
-- [📜 License](#-license)
 - [👤 Author](#-author)
 
 ---
